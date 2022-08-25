@@ -1,1 +1,3 @@
-This a non empty file
+My first readme
+
+This README is updated on GitHUb
